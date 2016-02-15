@@ -1,28 +1,39 @@
-name: emo75
-favicon: null
 layout_spectrum: 0.4563163777347654
-typography_spectrum: 0.30770054762251675
-cta:
-  domain: null
-  bucket: null
-  version: null
+favicon: null
+name: emo75
+purpose: []
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      navigable: true
+      path: /
+      number: 15
+      paginate: true
+    feed:
+      format: rss
+      path: /rss.xml
+      number: 10
+    permalink:
+      path: '/:title/'
+cta:
+  version: null
+  bucket: null
+  domain: null
 color:
-  brandColors:
-    - '#1a1e37'
-    - '#e2bc9f'
-    - '#9e664f'
-    - '#fbfbfb'
-    - '#653032'
   brandStrength: 0.6102145619224757
   lightness: 0.5304749968927354
   saturation: 0.4813718607183546
   rhythmicContrast: 0
-purpose: []
+  brandColors:
+    - '#0F0F0F'
+    - '#6E4304'
+    - '#6E6E5D'
+    - '#BD6F1F'
+typography_spectrum: 0.3077005476225168
