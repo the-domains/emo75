@@ -1,11 +1,11 @@
-layout_spectrum: 0.4563163777347654
+layout_spectrum: 0.6146712
 favicon: null
 name: emo75
 purpose: []
 analytics:
-  twitter: null
-  google: null
   facebook: null
+  google: null
+  twitter: null
 opengraph:
   image: null
   type: null
@@ -23,13 +23,13 @@ collections:
     permalink:
       path: '/:title/'
 cta:
+  domain: null
   version: null
   bucket: null
-  domain: null
 color:
   brandStrength: 0.6102145619224757
-  lightness: 0.5304749968927354
-  saturation: 0.4813718607183546
+  lightness: 0.7293423
+  saturation: 0.7040472
   rhythmicContrast: 0
   brandColors:
     - '#0F0F0F'
