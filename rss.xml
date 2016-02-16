@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[emo75]]></title>
         <description><![CDATA[emo75]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/emo75/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 15 Feb 2016 20:35:12 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 16 Feb 2016 03:32:40 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/emo75/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Blog - Alien Skin Software]]></title>
+            <description><![CDATA[<article><h1>Blog - Alien Skin Software</h1><p>Russ Jackson's beautiful portrait wins February's monthly photo competition from Alien Skin Software.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1b9084fed864b240de66bbfe7d6b2b15f293b61e.png"></article>]]></description>
+            <link>http://www.alienskin.com/blog/</link>
+            <guid isPermaLink="false">fb33ec2b-80c9-4060-87a6-5348c7a52ae0</guid>
+            <pubDate>Tue, 16 Feb 2016 03:32:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c4a37ceb-c2b3-47d4-bf6a-c550b116474d.png">]]></description>
-            <link>undefinedc2687b6b-235c-4415-bda9-8aa8962d2c96/index.html</link>
+            <link>https://thegrid.ai/emo75/c2687b6b-235c-4415-bda9-8aa8962d2c96/index.html</link>
             <guid isPermaLink="false">c2687b6b-235c-4415-bda9-8aa8962d2c96</guid>
             <pubDate>Mon, 15 Feb 2016 20:35:07 GMT</pubDate>
         </item>
