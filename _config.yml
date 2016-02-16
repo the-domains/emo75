@@ -3,9 +3,9 @@ favicon: null
 name: emo75
 purpose: []
 analytics:
-  facebook: null
-  google: null
   twitter: null
+  google: null
+  facebook: null
 opengraph:
   image: null
   type: null
@@ -23,18 +23,18 @@ collections:
     permalink:
       path: '/:title/'
 cta:
-  domain: null
-  version: null
   bucket: null
+  version: null
+  domain: null
 color:
   brandStrength: 0.6102145619224757
-  lightness: 0.7293423
   saturation: 0.7040472
-  rhythmicContrast: 0
   brandColors:
     - '#0D0403'
     - '#6E421F'
     - '#E9C7CF'
     - '#CF7788'
     - '#1E5C30'
-typography_spectrum: 0.3077005476225168
+  lightness: 0.7293423
+  rhythmicContrast: 0
+typography_spectrum: 0.002529511
