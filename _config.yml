@@ -1,15 +1,18 @@
-layout_spectrum: 0.6146712
-favicon: null
-name: emo75
-purpose: []
+color:
+  brandStrength: 0.6102145619224757
+  saturation: 0.7040472
+  brandColors:
+    - '#0D0403'
+    - '#6E421F'
+    - '#E9C7CF'
+    - '#CF7788'
+    - '#1E5C30'
+  lightness: 0.7293423
+  rhythmicContrast: 0
 analytics:
-  twitter: null
-  google: null
   facebook: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+  google: null
+  twitter: null
 collections:
   - index:
       navigable: true
@@ -23,18 +26,15 @@ collections:
     permalink:
       path: '/:title/'
 cta:
+  domain: null
   bucket: null
   version: null
-  domain: null
-color:
-  brandStrength: 0.6102145619224757
-  saturation: 0.7040472
-  brandColors:
-    - '#0D0403'
-    - '#6E421F'
-    - '#E9C7CF'
-    - '#CF7788'
-    - '#1E5C30'
-  lightness: 0.7293423
-  rhythmicContrast: 0
+favicon: null
+layout_spectrum: 0.6146712
+purpose: []
+name: emo75
+opengraph:
+  image: null
+  type: null
+  appId: null
 typography_spectrum: 0.002529511
